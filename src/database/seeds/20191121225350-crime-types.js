@@ -19,7 +19,7 @@ module.exports = {
           updated_at: new Date(),
         },
         {
-          type: 'Mautrato com Animais',
+          type: 'Maus-tratos com Animais',
           created_at: new Date(),
           updated_at: new Date(),
         },
